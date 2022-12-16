@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MaiMangaLis</string>
+    <string name="manga_cover">Manga cover</string>
+    <string name="back">Back</string>
+    <string name="manga_status">Status :  %s</string>
+    <string name="manga_year">Year   : %s</string>
+    <string name="manga_favorite">favorite</string>
+    <string name="about_image">foto profil</string>
+    <string name="about_name">Erdiansyah</string>
+    <string name="about_email">erdiansyah465@gmail.com</string>
+    <string name="search_manga">Search Manga</string>
+    <string name="score_detail">score: %s</string>
+    <string name="error_page">Error! Halaman Tidak Ditemukan</string>
+    <string name="empty_favorite">Empty Favorite, Please Add Some Favorite Manga</string>
+</resources>
